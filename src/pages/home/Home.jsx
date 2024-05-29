@@ -5,7 +5,9 @@ const Home = () => {
     return (
         <>
             <section id="hero">
-                <div className="container hero"></div>
+                <div className="container hero">
+                    <h2>Abdulaziz Yoqubov</h2>
+                </div>
             </section>
         </>
     )
